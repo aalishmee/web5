@@ -1,5 +1,5 @@
 # Assignment 5 - Personal Profile & DOM Manipulation
-Name: Alish Medina
+Name: Alish Medina  
 Group: SE-2538
 
 ## Overview
